@@ -1,0 +1,10 @@
+{
+  "name" : "scope",
+  "version" : "1.0.0",
+  "description" : "scope for baudio",
+  "main" : "index.js",
+  "dependencies" : {
+    "node-qt" : "latest",
+    "baudio": "git://github.com/naokinomoto/baudio"
+  }
+}
